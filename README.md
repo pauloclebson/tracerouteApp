@@ -31,8 +31,9 @@ Este projeto tem como objetivo construir uma ferramenta de traceroute com interf
 
 3. **Executar o Script**:
    ```sh
-   python traceroute_app.py
+   sudo python3 traceroute_app.py
    ```
+   obs: tem que executar como administrador usando o comando sudo.
 
 4. **Uso da Interface**:
    - Insira o endereço IP ou hostname no campo de entrada.
